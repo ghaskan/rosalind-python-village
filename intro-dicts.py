@@ -1,5 +1,5 @@
-input = open('C:\\Users\\win-7\\Downloads\\rosalind_ini6.txt', 'r')
-output = open('C:\\Users\\win-7\\Desktop\\derp.txt','w')
+input = open('', 'r') # input location
+output = open('','w') # output location
 
 data = input.read()
 freq = {}
