@@ -12,7 +12,5 @@ for word in data.split(' '):
 for value in freq:
     output.write(str(value) + ' ' + str(freq[value]) + '\n')
 
-print(freq)
-
 input.close()
 output.close()
